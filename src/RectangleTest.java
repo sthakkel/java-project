@@ -16,7 +16,7 @@ public class RectangleTest {
 
   @Test
   public void testLength() {
-    assertEquals(myRectangle.length, 5);
+    assertEquals(myRectangle.length, 9);
   }
 
   @Test
